@@ -1,2 +1,2 @@
 let saludo = 'hola'
-let saludo = numero
+let saludo2 = 20
